@@ -15,6 +15,10 @@ Tags: flexible-header, custom-colors, custom-menu, custom-logo, editor-style, fe
 /*
     Add your custom styles here
 */
-#extern-css{
- color:#9ACA3C;
+div#extern-css {
+    color: #3da523 !important;
+}
+
+h2.elementor-heading-title.elementor-size-default{
+  color:red;
 }
